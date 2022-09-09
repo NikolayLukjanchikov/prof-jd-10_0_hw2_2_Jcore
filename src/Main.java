@@ -21,6 +21,5 @@ public class Main {
         System.out.println("Обслуживаем весь гараж сразу: ");
 
         station.check(garage);
-
     }
 }
